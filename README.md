@@ -1,6 +1,6 @@
 # Project Title
 
-Statistical-Analysis-using-NFL-Next-Gen-Stats
+Statistical Analysis using NFL Next Gen Stats
 
 ## Description
 
