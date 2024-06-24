@@ -9,8 +9,6 @@ This project uses a Machine-Learning model from NFL Next Gen Stats to construct 
 ## Author
 
 Jackson MacDonald
-Contact:
-[Email](JacksonMacDonald21@gmail.com)
 [LinkedIn](https://www.linkedin.com/in/jackson-macdonald21)
 
 ## Acknowledgments
